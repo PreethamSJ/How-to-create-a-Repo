@@ -15,8 +15,9 @@ A step-by-step guide demonstrating how to initialize, populate, and manage a Git
 
 ## Prerequisites
 
-- Git installed ([download](https://git-scm.com/downloads))
-- (Optional) GitHub account
+- ✅ [Git installed](https://git-scm.com/downloads) – command line or GUI version
+- ✅ GitHub account – to push your code online
+- (Optional) Code editor (like VS Code) for editing files locally
 
 ---
 
@@ -26,3 +27,9 @@ A step-by-step guide demonstrating how to initialize, populate, and manage a Git
 mkdir how-to-create-a-repository
 cd how-to-create-a-repository
 git init
+## Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PreethamSJ/How-to-create-a-Repo.git
+   cd How-to-create-a-Repo
