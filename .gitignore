@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build artifacts
+dist/
+build/
+
+# Shell history
+.history
+
+# IDE/project files
+.vscode/
+.idea/
